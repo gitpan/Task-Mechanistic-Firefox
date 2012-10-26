@@ -1,0 +1,6 @@
+Revision history for Perl extension Task::Mechanistic::Firefox.
+
+0.01  Thu Oct 25 18:46:33 2012
+        - original version; created by h2xs 1.23 with options
+		-ABX -b 5.5.0 -n Task::Mechanistic::Firefox
+

@@ -1,0 +1,62 @@
+---
+abstract: 'Perl extension for WWW::Mechanize::Fireox '
+author:
+  - 'Kevin W. Henwood,, <Khen1950fx@aol.com>'
+build_requires:
+  ExtUtils::MakeMaker: 6.36
+  Test: 0
+configure_requires:
+  ExtUtils::MakeMaker: 6.36
+distribution_type: module
+dynamic_config: 1
+generated_by: 'Module::Install version 1.06'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: 1.4
+name: Task-Mechanistic-Firefox
+no_index:
+  directory:
+    - inc
+    - t
+requires:
+  Algorithm::C3: 0
+  AppConfig: 0
+  Carp::Clan: 0
+  Class::Accessor: 0
+  Class::C3: 0
+  Class::Data::Inheritable: 0
+  Class::Default: 0
+  Data::JavaScript::Anon: 0
+  ExtUtils::Command: 0
+  Filter::Util::Call: 0
+  HTML::Selector::XPath: 0
+  IO::HTML: 0
+  IO::Pty: 0
+  IPC::Run: 0
+  JSON: 0
+  MRO::Compat: 0
+  Math::BigInt: 0
+  Module::Pluggable::Fast: 0
+  MozRepl: 0
+  MozRepl::RemoteObject: 0
+  Net::Telnet: 0
+  Object::Import: 0
+  Params::Util: 0
+  Shell::Command: 0
+  Spiffy: 0
+  Task::Mechanistic: 0
+  Task::Weaken: 0
+  Template: 0
+  Template::Provider::FromDATA: 0
+  Test::Base: 0
+  Text::SimpleTable: 0
+  UNIVERSAL::require: 0
+  URI: 0
+  WWW::Mechanize::Firefox: 0
+  WWW::Mechanize::Link: 0
+  parent: 0
+  perl: 5.005
+resources:
+  license: http://dev.perl.org/licenses/
+version: 0.01
